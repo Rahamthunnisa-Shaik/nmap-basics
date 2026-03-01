@@ -2,7 +2,7 @@
 
 ## Scan Result
 
-![Basic Scan](basic-scan.png)
+![Basic Scan](Basic-scan.png)
 
 ### Explanation
 
